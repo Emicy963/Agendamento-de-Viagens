@@ -1,0 +1,58 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de log
+*.log
+
+# Arquivos do BlueJ
+*.ctxt
+
+# Arquivos Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Arquivos de pacote
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs de crash da VM
+hs_err_pid*
+replay_pid*
+
+# NetBeans específico
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Arquivos de configuração do IDE
+.idea/
+.settings/
+.classpath
+.project
+
+# Arquivos de configuração do Maven (se estiver usando)
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Arquivos de banco de dados
+*.db
+*.sql
+*.sqlite
+
+# Arquivos de configuração local
+src/config/database.properties
